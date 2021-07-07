@@ -1,7 +1,7 @@
 {
   "name": "xss-examples",
   "version": "1.0.0",
-  "private": true,
+  "author": "anderson do nascimento bosa <andersonbosa0@gmail.com>",
   "scripts": {
     "clean": "rm -rf package-lock.json yarn.lock node_modules 1>clean.log",
     "dev": "nuxt",
