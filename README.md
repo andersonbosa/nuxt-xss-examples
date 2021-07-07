@@ -1,11 +1,12 @@
-# XSS-examples
+# nuxt-xss-examples
 
-> The purpose is to demonstrate the mechanism of vulnerability.
+- XSS demonstrations using the Nuxt.js framework.
+
 ---
 
-- created by `create-nuxt-app`
+## Created by `create-nuxt-app`
 
-## Build Setup
+### Build Setup
 
 ```bash
 # install dependencies
